@@ -3,9 +3,30 @@
     "configurations": [
       {
         "type": "java",
+        "name": "SingletonPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.singletonpattern.SingletonPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "PrototypePattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.prototypepattern.PrototypePattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FactoryPattern",
+        "request": "launch",
+        "mainClass": "org.designpattern.factorypattern.FactoryPattern",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Debug (Launch)",
         "request": "launch",
-        "mainClass": "org.example.Main",
+        "mainClass": "org.example.Main"
       }
     ]
   }
