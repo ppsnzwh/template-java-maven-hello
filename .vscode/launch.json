@@ -3,6 +3,62 @@
     "configurations": [
       {
         "type": "java",
+        "name": "IteratorPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.iteratorpattern.IteratorPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "InterpreterPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.interpreterpattern.InterpreterPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "InterceptingFilterDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.interceptingfilterpattern.InterceptingFilterDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "DaoPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.daopattern.DaoPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CompositeEntityPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.compositeentitypattern.CompositeEntityPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CommandPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.commandpattern.CommandPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "BusinessDelegatePatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.businessdelegatepattern.BusinessDelegatePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "FrontControllerPatternDemo",
+        "request": "launch",
+        "mainClass": "org.designpattern.frontcontrollerpattern.FrontControllerPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "SingletonPattern",
         "request": "launch",
         "mainClass": "org.designpattern.singletonpattern.SingletonPattern",
